@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/9e69741e-2c35-498a-9712-ab0fb8566dea)
 
 <p align="right">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF6F61&width=800&height=60&lines=Hi+👋+I'm+Kamlesh+Sahani!;Full+Stack+Developer+|+React+|+Next.js+|+Node.js+|+Express.js+|+MongoDB+|;Crafting+Seamless+Web+Experiences;Passionate+About+Tech+and+Innovation;Exploring+New+Technologies+Every+Day;Let's+Build+Something+Amazing+Together!" align="center" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF6F61&width=800&height=60&lines=Hi+👋+I'm+Umang+Tiwari!;Full+Stack+Developer+|+React+|+Next.js+|+Node.js+|+Express.js+|+MongoDB+|;Crafting+Seamless+Web+Experiences;Passionate+About+Tech+and+Innovation;Exploring+New+Technologies+Every+Day;Let's+Build+Something+Amazing+Together!" align="center" />
 </p>
 
 - 🌱 **Learning:** Data structures and algorithms
@@ -9,7 +9,7 @@
 - 🤝 **Looking For:** Help with Complex UI Challenges
 - 👨‍💻 **Explore My Projects:** [GitHub](https://github.com/Umang1901?tab=repositories)
 - 💬 **Ask Me About:** React.js, TypeScript, and Modern Web Technologies
-- 📫 **Reach Me At:** kamleshbca2005@gmail.com
+- 📫 **Reach Me At:** tumang487@gmail.com
 - 📄 **Experience Details:** [LinkedIn](https://www.linkedin.com/in/umang-tiwari-a67b6023a/)
 - ⚡ **Fun Fact:** I’m a hackathon enthusiast with a passion for solving complex problems!
 
