@@ -8,7 +8,7 @@
 - 👯 **Seeking Collaboration:** Open Source Projects
 - 🤝 **Looking For:** Help with Complex UI Challenges
 - 👨‍💻 **Explore My Projects:** [GitHub](https://github.com/Umang1901?tab=repositories)
-- 💬 **Ask Me About:** React.js, TypeScript, and Modern Web Technologies
+- 💬 **Ask Me About:** React.js, and Modern Web Technologies
 - 📫 **Reach Me At:** tumang487@gmail.com
 - 📄 **Experience Details:** [LinkedIn](https://www.linkedin.com/in/umang-tiwari-a67b6023a/)
 - ⚡ **Fun Fact:** I’m a hackathon enthusiast with a passion for solving complex problems!
