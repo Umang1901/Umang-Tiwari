@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/9e69741e-2c35-498a-9712-ab0fb8566dea)
 
 <p align="right">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF6F61&width=800&height=60&lines=Hi+👋+I'm+Umang+Tiwari!;Full+Stack+Developer+|+React+|+Next.js+|+Node.js+|+Express.js+|+MongoDB+|;Crafting+Seamless+Web+Experiences;Passionate+About+Tech+and+Innovation;Exploring+New+Technologies+Every+Day;Let's+Build+Something+Amazing+Together!" align="center" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF6F61&width=800&height=60&lines=Hi+👋+I'm+Umang+Tiwari!;Web+Developer+|+React+|+Node.js+|;Crafting+Seamless+Web+Experiences;Passionate+About+Tech+and+Innovation;Exploring+New+Technologies+Every+Day;Let's+Build+Something+Amazing+Together!" align="center" />
 </p>
 
 - 🌱 **Learning:** Data structures and algorithms
@@ -25,8 +25,8 @@
 
 | Project                        | Description                                                                            | Tech Stack                                      | Link                                                                                   |
 | ------------------------------ | -------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Daily DSA Challenges          | Collection of solutions to various DSA problems for skill sharpening. Includes algorithms on arrays, strings, trees, and more. | JavaScript                                     | [GitHub](https://github.com/kamlesh-Sahani/DSA-Daily)                     |
-| My Personal Portfolio          | This modern portfolio website is built using React and integrates Sanity CMS for content management, with Framer Motion used to add smooth, interactive animations. | React.js,Sanity,Framer Motion, Sass                                      | [GitHub](https://github.com/kamlesh-Sahani/My_portfolio)                     |
+| Daily DSA Challenges          | Collection of solutions to various DSA problems for skill sharpening. Includes algorithms on arrays, strings, trees, and more. | JavaScript                                     | [GitHub]([https://github.com/Umang1901/DSA-Daily])                     |
+| My Personal Portfolio          | This modern portfolio website is built using HTML,CSS                                     | [GitHub](https://github.com/Umang1901/OIBSIP/tree/main/Task-2)                     |
 | Codehire          | Revolutionizing Technical Interviews with Real-Time Code Assessment and AI Integration. | Nextjs,Nodejs , MongoDB, JWT                     | [GitHub](https://github.com/kamlesh-Sahani/codehire)                     |
 | Time Table Management          |A dynamic and responsive web application for managing college timetables | Nextjs,Nodejs , MongoDB, JWT                     | [GitHub](https://github.com/kamlesh-Sahani/time-table-dbit)                     |
 | E-Commerce Platform            | Full-stack e-commerce app with user auth, product management, and payment integration. | React.js, Mongodb, Express.js, Node.js, Redux, SCSS, Stripe, Cloudinary | [GitHub](https://github.com/kamlesh-Sahani/Ecommerce_MERN_TypeScript)                     |
